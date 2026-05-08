@@ -1,7 +1,5 @@
 # Astrophage Extender v1.0
 
-> *"You save Earth. I save Erid. Is good good good."*
-
 A Claude Code plugin that extends your session range by reducing context bloat automatically. Named after the astrophage organism in Andy Weir's *Project Hail Mary* -- a microbe that converts stellar energy into stored fuel. This plugin converts token waste into session headroom.
 
 **What it does:** Hooks into Claude Code's lifecycle to filter noisy tool outputs, guard against wasteful file reads, advise on strategic hibernation timing, and give you real-time visibility into your fuel reserves.
@@ -334,7 +332,7 @@ MIT. Use it, fork it, extend its range.
 
 ## Credits
 
-> *"You save Earth. I save Erid. Together, save everyone."*
+> Astral Assets
 
 Named after the astrophage organism in Andy Weir's *Project Hail Mary*. The astrophage converts light into stored energy. The Astrophage Extender converts bloat into headroom.
 
