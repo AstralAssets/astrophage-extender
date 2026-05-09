@@ -237,15 +237,6 @@ Honest answer: it depends on your mission profile.
 
 ---
 
-## Compatibility
-
-- **Claude Code v2.1.0+** -- Required for hooks
-- **ECC (Everything Claude Code)** -- Compatible. Sleep Advisor defers to ECC's strategic-compact when detected.
-- **Walls of Ba Sing Se** -- Compatible. Wall hooks run PreToolUse for security; Astrophage Extender's PreToolUse runs on different matchers (Bash, Read). No conflicts.
-- **Custom hooks** -- Compatible. Astrophage Extender hooks use unique script paths. Installer appends, never overwrites.
-
----
-
 ## Uninstall
 
 ```powershell
